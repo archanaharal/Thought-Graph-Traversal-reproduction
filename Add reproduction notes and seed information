@@ -1,0 +1,8 @@
+## Reproduction Notes
+
+Three random seeds were used:
+42
+123
+999
+
+Results are stored in results/my_results.csv
